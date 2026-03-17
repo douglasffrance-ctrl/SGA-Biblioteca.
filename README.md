@@ -6,7 +6,7 @@
 
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-4A90E2?style=for-the-badge\&logo=codeblocks\&logoColor=white)
 
-![Status](https://img.shields.io/badge/Status-Em\_Desenvolvimento-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concluido-success?style=for-the-badge)
 
 
 
