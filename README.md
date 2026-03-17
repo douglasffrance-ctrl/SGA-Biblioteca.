@@ -1,4 +1,4 @@
-\# SGA - Sistema de Gerenciamento de Biblioteca .
+# SGA - Sistema de Gerenciamento de Biblioteca .
 
 
 
